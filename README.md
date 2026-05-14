@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Juju</h1>
-<h3 align="center">A passionate data scientist hoping to go into research</h3>
+<h1 align="center">Hi 👋, I'm Juwon</h1>
+<h3 align="center">A passionate data scientist currently building an intelligent system</h3>
 
-- 🔭 I’m currently working on **more data science projects**
+- 🔭 I’m currently working on **building a identity management system**
 
 - 🌱 I’m currently learning **Data Science and ML**
 
-- 🤝 I’m looking for help with **Computer Vision projects**
+- 🤝 I’m looking for help with **Blockchain and ML intersection**
 
 - 📫 How to reach me **juwonolukoju@gmail.com**
 
